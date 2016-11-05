@@ -661,7 +661,7 @@ function wrapper(plugin_info) {
 			data: {
 				username: 'viewer',
 				password: 'password',
-				api_key: 'nXQ44D38OdVzEC34'
+				api_key: '0LPul5mAxN6wOWf2SGXp'
 			},
 			crossDomain: true,
 			success: function(result) {
